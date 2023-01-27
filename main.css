@@ -51,13 +51,13 @@ html {
   }
 
   .shout-out {
-    margin:auto;
-    display:flex;
-    justify-content:center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
     color: #ffc600;
     font-family: sans-serif;
   }
 
   a {
-    color:white;
+    color: white;
   }
